@@ -22,6 +22,19 @@ body{
     color:rgb(153, 9, 9);
 }
 
+.title2{
+    text-align:center;
+    margin-top:10rem;
+    color:rgb(153, 9, 9);
+}
+
+.paragraph1{
+    text-align:center;
+  font-size:30px;
+    color:rgb(153, 9, 9);
+
+}
+
 .redFair{
     align-items: right;
     font-size: 30px;
@@ -43,9 +56,19 @@ body{
 
 .log2{
     font-size: 30px;
+    align-items:center;
+    margin-right:170px;
 }
 
 .pw3{
     font-size: 30px;
+    text-align:center;
 }
+
+.Logmein{
+    text-align:center;
+    margin-right: 170px;
+}
+
+
 
