@@ -1,0 +1,51 @@
+body{
+    background-color: blue;
+}
+
+.navBar{
+    display:inline-flex;
+    font-size: 20px;
+    
+   
+}
+
+.image1{
+    float:left;
+    height:200px;
+    width:200px;
+
+}
+
+.title1{
+    text-align:center;
+    margin-top:10rem;
+    color:rgb(153, 9, 9);
+}
+
+.redFair{
+    align-items: right;
+    font-size: 30px;
+    
+   
+    margin-left:10rem;
+    position:relative;
+    
+
+}
+
+#bigForm{
+    align-items: center;
+}
+
+.app-link{
+    color:black;
+}
+
+.log2{
+    font-size: 30px;
+}
+
+.pw3{
+    font-size: 30px;
+}
+
