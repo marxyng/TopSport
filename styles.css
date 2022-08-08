@@ -18,12 +18,14 @@ body{
 
 .title1{
     text-align:center;
+    text-shadow: 3px 3px black;
     margin-top:10rem;
     color:rgb(153, 9, 9);
 }
 
 .title2{
     text-align:center;
+    text-shadow: 3px 3px black;
     margin-top:10rem;
     color:rgb(153, 9, 9);
 }
@@ -70,5 +72,14 @@ body{
     margin-right: 170px;
 }
 
+#nameText{
+   border-radius: 10px;
+   border-style:solid;
+}
+
+#myPassword{
+    border-radius:10px;
+    border-style:solid
+}
 
 
