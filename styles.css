@@ -2,6 +2,10 @@ body{
     background-color: blue;
 }
 
+.bigHeader{
+    background-color: red;
+
+}
 .navBar{
     display:inline-flex;
     font-size: 20px;
