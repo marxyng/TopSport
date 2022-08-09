@@ -1,5 +1,6 @@
 body{
     background-color: blue;
+    
 }
 
 .bigHeader{
@@ -80,11 +81,13 @@ body{
 #nameText{
    border-radius: 10px;
    border-style:double;
+   height:3rem;
 }
 
 #myPassword{
     border-radius:10px;
     border-style:double;
+    height:3rem;
 }
 
 
