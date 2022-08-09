@@ -68,7 +68,21 @@ body{
 .log2{
     font-size: 30px;
     align-items:center;
+    margin-right:190px;
+}
+
+.log3{
     margin-right:170px;
+    font-size: 30px;
+
+}
+
+.log4{
+font-size: 30px;
+}
+
+.log5{
+font-size: 30px;
 }
 
 .pw3{
