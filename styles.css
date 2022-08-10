@@ -90,6 +90,25 @@ font-size: 30px;
     color:white;
 }
 
+.myEmail{
+    height: 100px
+}
+
+.ourNewsletter{
+    font-size: 30px;
+    text-shadow: 1px 1px white;
+}
+
+.thankme{
+    font-size: 30px;
+    text-shadow: 1px 1px white;
+}
+
+.feelfree{
+    font-size: 30px;
+    text-shadow: 1px 1px white;
+}
+
 .pw3{
     font-size: 30px;
     text-align:center;
