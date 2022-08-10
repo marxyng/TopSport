@@ -4,6 +4,9 @@ const bodyParser=require('body-parser');
 
 const app = express();
 
+app.set("view engine", "ejs");
+
+
 //set port
 var port=process.env.PORT || 8080
 
@@ -12,6 +15,7 @@ app.use(express.static(__dirname));
 
 app.get("/", function(req,res){
     res.send("index.html");
+
 });
 
 app.get("/about", function(req,res){
